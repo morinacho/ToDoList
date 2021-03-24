@@ -20,6 +20,11 @@ body {
 }
 .item a{
     float: right;
+    font-size: 18px;
+    padding-left: 10px;
+}
+.item button{
+    margin-left: 15px;
 }
 
 
